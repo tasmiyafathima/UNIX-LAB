@@ -1,3 +1,4 @@
+#shell script to compute the gross salary of an employee
 #!/bin/sh
 echo "enter the basic salary"
 read basic
