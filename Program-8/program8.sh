@@ -1,3 +1,4 @@
+# simple calculator
 #!/bin/sh
 echo "Stimulation of a simple Calculator"
 echo "Enter any 2 numbers"
