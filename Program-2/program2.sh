@@ -1,3 +1,4 @@
+#shell script to find the area of a circle
 #!/bin/sh
 echo "Enter the radius of the circle"
 read r
