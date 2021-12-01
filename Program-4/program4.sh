@@ -1,3 +1,4 @@
+#shell script to find the biggest of three numbers
 #!/bin/sh
 echo "Enter the three numbers"
 read num1 num2 num3
