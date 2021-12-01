@@ -1,3 +1,4 @@
+#shell script to find the factorial of a number
 #!bin/sh
 echo "enter a number"
 read n
