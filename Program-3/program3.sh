@@ -1,3 +1,4 @@
+shell script to check whether the number is zero/positive/negative
 #!/bin/sh
 echo "Enter the number"
 read num
