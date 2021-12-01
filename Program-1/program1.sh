@@ -1,3 +1,4 @@
+# shell script to find if the given number is leap or not
 #!/bin/sh
 echo "Enter the year"
 read year
